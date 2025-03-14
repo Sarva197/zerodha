@@ -1,0 +1,47 @@
+/* .body{
+color: #424242;
+} */
+
+.price-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+}
+
+.pricing-box {
+  position: relative;
+  top: 35px;
+}
+
+.sec-container {
+  height: 13rem;
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  flex-wrap: wrap;
+}
+
+.price-desc {
+  height: 8rem;
+  width: 27rem;
+}
+
+.edu-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav-link {
+  margin-left: 40px;
+}
+
+.hover-blue:hover{
+    color: #387ed1 !important;
+}
+
+.button-color{
+  background-color: #387fd1 !important;
+}
